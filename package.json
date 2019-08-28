@@ -1,0 +1,16 @@
+{
+  "name": "bot_discord",
+  "version": "1.0.0",
+  "description": "Bot discord created for learning purposes",
+  "main": "main.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [],
+  "author": "Dewiter",
+  "license": "ISC"
+}
